@@ -81,4 +81,5 @@ The persistence of data in this project is achieved through **file handling**. I
 ### Conceptual File Structure Diagram
 
 This diagram illustrates how the C program interacts with the data files to create a persistent storage system.
-!(image)[https://lh3.googleusercontent.com/gg-dl/AJfQ9KQpS8nuvAUzYNA9v4ig6-x4RPI3l0q1hBPA81Q9gNHHn_UmosMB4cTOR0s-8zb4sijxV2lp4mnYxFNcpp8NGOyuTNk1jlpBoOLE08olAVz6StrwnlirhO3CTozFC8a1w23Ynje8e1hOoLUIPWwGkxab3t4EFtic7FM7uonFiT2DXKmf_Q]
+
+![AI image of digital library](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQpS8nuvAUzYNA9v4ig6-x4RPI3l0q1hBPA81Q9gNHHn_UmosMB4cTOR0s-8zb4sijxV2lp4mnYxFNcpp8NGOyuTNk1jlpBoOLE08olAVz6StrwnlirhO3CTozFC8a1w23Ynje8e1hOoLUIPWwGkxab3t4EFtic7FM7uonFiT2DXKmf_Q)
