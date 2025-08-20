@@ -1,6 +1,8 @@
 # DIGITAL-LIBRARY
 DIGITAL LIBRARY IS A LIBRARY MANAGEMENT SYSTEM BUILD USING  C PROGRAMMING(CREATED BY SANTOSH K. SHAH)
 # Digital Library Management System
+![image of menu based digital library ](https://github.com/user-attachments/assets/1a47b822-7f64-4b5d-a85e-fef57964b047)
+
 
 A simple yet robust console-based Digital Library Management System built entirely in C. This project demonstrates core programming concepts and focuses heavily on file handling to persist library data, including books, members, and transaction records.
 
